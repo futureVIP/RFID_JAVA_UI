@@ -110,7 +110,6 @@ abstract public class AbstractDemo implements Demo, ProductNames {
 
     protected static JComponent createOptionsPanel(JFrame parentFrame, Demo demo, Component demoPanel) {
         CollapsiblePanes panes = new CollapsiblePanes();
-
         if (demoPanel != null) {
             demoPanel.setName("Demo.DemoPanel");
             Component optionsPanel = demo.getOptionsPanel();

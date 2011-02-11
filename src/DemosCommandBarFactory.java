@@ -11,6 +11,7 @@ import com.jidesoft.action.DockableBarContext;
 import com.jidesoft.docking.DockableFrame;
 import com.jidesoft.docking.DockableHolder;
 import com.jidesoft.swing.JideMenu;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
